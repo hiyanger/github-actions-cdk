@@ -1,3 +1,7 @@
+# memo
+ - `node_modules` がないのでそのままは使えない
+ - デプロイには `cdk bootstrap` が必須
+
 # Welcome to your CDK TypeScript project
 
 This is a blank project for CDK development with TypeScript.
