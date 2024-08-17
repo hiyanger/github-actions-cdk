@@ -1,4 +1,6 @@
 # memo
+ - cdk init app はVPN使ってるとだめかも
+ - リソースの削除は `removalPolicy: cdk.RemovalPolicy.DESTROY` を付与
  - `node_modules` がないのでそのままは使えない
  - デプロイには `cdk bootstrap` が必須
 
