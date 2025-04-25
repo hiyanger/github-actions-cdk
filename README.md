@@ -1,3 +1,6 @@
+CDK を GitHub Actions でデプロイ 
+https://zenn.dev/hiyanger/scraps/36978dc46472da
+
 # memo
  - `cdk init app` はVPN使ってるとだめかも
  - リソースの削除は `removalPolicy: cdk.RemovalPolicy.DESTROY` を付与
