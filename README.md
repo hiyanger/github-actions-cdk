@@ -1,4 +1,4 @@
-CDK を GitHub Actions でデプロイ 
+CDK を GitHub Actions でデプロイ  
 https://zenn.dev/hiyanger/scraps/36978dc46472da
 
 # memo
